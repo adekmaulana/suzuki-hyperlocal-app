@@ -95,3 +95,26 @@
     <td><img src="https://drive.google.com/uc?export=view&id=1-MKKjux0BZCj8Cm8KMd_Slsc84ymFnZp" alt="Activity Screen" width="50%"/></td>
   </tr>
 </table>
+
+<table width="100%">
+  <tr align="center">
+    <td>Service Leads Screen</td>
+     <td>Schedule List Screen</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://drive.google.com/uc?export=view&id=10OfT8MzOcJk-UqdqyKCZB7FN_9tsaSUB" alt="Service Leads Screen" width="50%"/></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1fCy9pIlQeuFL-bAPaLIpPSyZzVjxcM9f" alt="Schedule List Screen" width="50%"/></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr align="center">
+    <td>Detail Leads</td>
+     <td>Update Leads</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://drive.google.com/uc?export=view&id=1Ia0EMaYwN9xcm1OB3f1kYnDENqpSuJuO" alt="Detail Leads" width="50%"/></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1uDF5JVk_cLomaxRcfsQQe91wLQteYpNL" alt="Update Leads" width="50%"/></td>
+  </tr>
+</table>
+
