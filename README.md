@@ -92,6 +92,6 @@
   </tr>
   <tr align="center">
     <td><img src="https://drive.google.com/uc?export=view&id=1eP92Hh9SnvKnDlBzyNZ7SmEEmY2iem0A" alt="Leaderboard Screen" width="50%"/></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1WM1yFJijGs3wSqWgmU2c5jdCbPSaTr1n" alt="Activity Screen" width="50%"/></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1-MKKjux0BZCj8Cm8KMd_Slsc84ymFnZp" alt="Activity Screen" width="50%"/></td>
   </tr>
 </table>
